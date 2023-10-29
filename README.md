@@ -7,3 +7,6 @@ Thicknesses and points are estimated separately, and time spent is recorded for 
 Multiple time records can be added to tasks.
 The time spent by sections is calculated by summing the time spent by tasks.
 The task has the field 'developer' and 'status', the program calculates and summarizes the estimated value of all developers and actual work done. Developers are selected from the dropdown.
+
+
+![task_list_for_story](https://github.com/indrajos/django_agile_tracker/assets/94143462/69ee031f-77cb-407e-b2d3-a160308e5ef0)
